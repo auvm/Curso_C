@@ -1,0 +1,14 @@
+D:\auvm\PROYECTOS\Curso_C#\Curso_C#\bin\Debug\net8.0\Curso_C#.exe
+D:\auvm\PROYECTOS\Curso_C#\Curso_C#\bin\Debug\net8.0\Curso_C#.deps.json
+D:\auvm\PROYECTOS\Curso_C#\Curso_C#\bin\Debug\net8.0\Curso_C#.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\Curso_C#\bin\Debug\net8.0\Curso_C#.dll
+D:\auvm\PROYECTOS\Curso_C#\Curso_C#\bin\Debug\net8.0\Curso_C#.pdb
+D:\auvm\PROYECTOS\Curso_C#\Curso_C#\obj\Debug\net8.0\Curso_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\Curso_C#\obj\Debug\net8.0\Curso_C#.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Curso_C#\obj\Debug\net8.0\Curso_C#.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\Curso_C#\obj\Debug\net8.0\Curso_C#.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Curso_C#\obj\Debug\net8.0\Curso_C#.dll
+D:\auvm\PROYECTOS\Curso_C#\Curso_C#\obj\Debug\net8.0\refint\Curso_C#.dll
+D:\auvm\PROYECTOS\Curso_C#\Curso_C#\obj\Debug\net8.0\Curso_C#.pdb
+D:\auvm\PROYECTOS\Curso_C#\Curso_C#\obj\Debug\net8.0\Curso_C#.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\Curso_C#\obj\Debug\net8.0\ref\Curso_C#.dll

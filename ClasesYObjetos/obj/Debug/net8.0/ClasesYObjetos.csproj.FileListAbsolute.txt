@@ -1,0 +1,14 @@
+D:\auvm\PROYECTOS\Curso_C#\ClasesYObjetos\obj\Debug\net8.0\ClasesYObjetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\ClasesYObjetos\obj\Debug\net8.0\ClasesYObjetos.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\ClasesYObjetos\obj\Debug\net8.0\ClasesYObjetos.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\ClasesYObjetos\obj\Debug\net8.0\ClasesYObjetos.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\ClasesYObjetos\bin\Debug\net8.0\ClasesYObjetos.exe
+D:\auvm\PROYECTOS\Curso_C#\ClasesYObjetos\bin\Debug\net8.0\ClasesYObjetos.deps.json
+D:\auvm\PROYECTOS\Curso_C#\ClasesYObjetos\bin\Debug\net8.0\ClasesYObjetos.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\ClasesYObjetos\bin\Debug\net8.0\ClasesYObjetos.dll
+D:\auvm\PROYECTOS\Curso_C#\ClasesYObjetos\bin\Debug\net8.0\ClasesYObjetos.pdb
+D:\auvm\PROYECTOS\Curso_C#\ClasesYObjetos\obj\Debug\net8.0\ClasesYObjetos.dll
+D:\auvm\PROYECTOS\Curso_C#\ClasesYObjetos\obj\Debug\net8.0\refint\ClasesYObjetos.dll
+D:\auvm\PROYECTOS\Curso_C#\ClasesYObjetos\obj\Debug\net8.0\ClasesYObjetos.pdb
+D:\auvm\PROYECTOS\Curso_C#\ClasesYObjetos\obj\Debug\net8.0\ClasesYObjetos.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\ClasesYObjetos\obj\Debug\net8.0\ref\ClasesYObjetos.dll

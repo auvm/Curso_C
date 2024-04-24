@@ -1,0 +1,14 @@
+D:\auvm\PROYECTOS\Curso_C#\Herencia\bin\Debug\net8.0\Herencia.exe
+D:\auvm\PROYECTOS\Curso_C#\Herencia\bin\Debug\net8.0\Herencia.deps.json
+D:\auvm\PROYECTOS\Curso_C#\Herencia\bin\Debug\net8.0\Herencia.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\Herencia\bin\Debug\net8.0\Herencia.dll
+D:\auvm\PROYECTOS\Curso_C#\Herencia\bin\Debug\net8.0\Herencia.pdb
+D:\auvm\PROYECTOS\Curso_C#\Herencia\obj\Debug\net8.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\Herencia\obj\Debug\net8.0\Herencia.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Herencia\obj\Debug\net8.0\Herencia.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\Herencia\obj\Debug\net8.0\Herencia.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Herencia\obj\Debug\net8.0\Herencia.dll
+D:\auvm\PROYECTOS\Curso_C#\Herencia\obj\Debug\net8.0\refint\Herencia.dll
+D:\auvm\PROYECTOS\Curso_C#\Herencia\obj\Debug\net8.0\Herencia.pdb
+D:\auvm\PROYECTOS\Curso_C#\Herencia\obj\Debug\net8.0\Herencia.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\Herencia\obj\Debug\net8.0\ref\Herencia.dll
