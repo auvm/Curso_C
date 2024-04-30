@@ -16,6 +16,7 @@
         }
     }
 
+    /*clase principal de donde se originan los atributos y el método de las demás personas*/
     class People
     {
         private string _name;
@@ -33,21 +34,28 @@
         }
     }
 
+    /*para hacer referencia a la herencia, sobre el nombre de la nueva clase
+     se ponen los dos puntos y la clase padre*/
     class Doctor : People
     {
         private string _speciality;
 
+        /*para el nuevo constructor se pasan los atributos originales con los
+         dos puntos : la palabra base y los parámetros en cuestión*/
         public Doctor(string name, int age, string speciality) : base(name, age)
         {
             _speciality = speciality;
         }
 
+
+        /*como ya se hace referencia a la herencia, se puede acceder a los métodos originales*/
         public string completeInfo()
         {
             return info() + $"\nEspecialidad: {_speciality}";
         }
     }
 
+    /*este es otro ejemplo de la implementación de la herencia*/
     class Progammer : People
     {
         private string _favoriteLanguage;

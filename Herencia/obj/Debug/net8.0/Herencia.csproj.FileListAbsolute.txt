@@ -12,3 +12,4 @@ D:\auvm\PROYECTOS\Curso_C#\Herencia\obj\Debug\net8.0\refint\Herencia.dll
 D:\auvm\PROYECTOS\Curso_C#\Herencia\obj\Debug\net8.0\Herencia.pdb
 D:\auvm\PROYECTOS\Curso_C#\Herencia\obj\Debug\net8.0\Herencia.genruntimeconfig.cache
 D:\auvm\PROYECTOS\Curso_C#\Herencia\obj\Debug\net8.0\ref\Herencia.dll
+D:\auvm\PROYECTOS\Curso_C#\Herencia\obj\Debug\net8.0\Herencia.sourcelink.json

@@ -1,0 +1,15 @@
+D:\auvm\PROYECTOS\Curso_C#\test_comando\bin\Debug\net8.0\test_comando.exe
+D:\auvm\PROYECTOS\Curso_C#\test_comando\bin\Debug\net8.0\test_comando.deps.json
+D:\auvm\PROYECTOS\Curso_C#\test_comando\bin\Debug\net8.0\test_comando.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\test_comando\bin\Debug\net8.0\test_comando.dll
+D:\auvm\PROYECTOS\Curso_C#\test_comando\bin\Debug\net8.0\test_comando.pdb
+D:\auvm\PROYECTOS\Curso_C#\test_comando\obj\Debug\net8.0\test_comando.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\test_comando\obj\Debug\net8.0\test_comando.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\test_comando\obj\Debug\net8.0\test_comando.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\test_comando\obj\Debug\net8.0\test_comando.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\test_comando\obj\Debug\net8.0\test_comando.sourcelink.json
+D:\auvm\PROYECTOS\Curso_C#\test_comando\obj\Debug\net8.0\test_comando.dll
+D:\auvm\PROYECTOS\Curso_C#\test_comando\obj\Debug\net8.0\refint\test_comando.dll
+D:\auvm\PROYECTOS\Curso_C#\test_comando\obj\Debug\net8.0\test_comando.pdb
+D:\auvm\PROYECTOS\Curso_C#\test_comando\obj\Debug\net8.0\test_comando.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\test_comando\obj\Debug\net8.0\ref\test_comando.dll

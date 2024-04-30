@@ -1,0 +1,15 @@
+D:\auvm\PROYECTOS\Curso_C#\Static\bin\Debug\net8.0\Static.exe
+D:\auvm\PROYECTOS\Curso_C#\Static\bin\Debug\net8.0\Static.deps.json
+D:\auvm\PROYECTOS\Curso_C#\Static\bin\Debug\net8.0\Static.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\Static\bin\Debug\net8.0\Static.dll
+D:\auvm\PROYECTOS\Curso_C#\Static\bin\Debug\net8.0\Static.pdb
+D:\auvm\PROYECTOS\Curso_C#\Static\obj\Debug\net8.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\Static\obj\Debug\net8.0\Static.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Static\obj\Debug\net8.0\Static.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\Static\obj\Debug\net8.0\Static.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Static\obj\Debug\net8.0\Static.sourcelink.json
+D:\auvm\PROYECTOS\Curso_C#\Static\obj\Debug\net8.0\Static.dll
+D:\auvm\PROYECTOS\Curso_C#\Static\obj\Debug\net8.0\refint\Static.dll
+D:\auvm\PROYECTOS\Curso_C#\Static\obj\Debug\net8.0\Static.pdb
+D:\auvm\PROYECTOS\Curso_C#\Static\obj\Debug\net8.0\Static.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\Static\obj\Debug\net8.0\ref\Static.dll

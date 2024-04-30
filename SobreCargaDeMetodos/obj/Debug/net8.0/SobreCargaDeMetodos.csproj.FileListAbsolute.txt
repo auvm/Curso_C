@@ -1,0 +1,15 @@
+D:\auvm\PROYECTOS\Curso_C#\SobreCargaDeMetodos\bin\Debug\net8.0\SobreCargaDeMetodos.exe
+D:\auvm\PROYECTOS\Curso_C#\SobreCargaDeMetodos\bin\Debug\net8.0\SobreCargaDeMetodos.deps.json
+D:\auvm\PROYECTOS\Curso_C#\SobreCargaDeMetodos\bin\Debug\net8.0\SobreCargaDeMetodos.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\SobreCargaDeMetodos\bin\Debug\net8.0\SobreCargaDeMetodos.dll
+D:\auvm\PROYECTOS\Curso_C#\SobreCargaDeMetodos\bin\Debug\net8.0\SobreCargaDeMetodos.pdb
+D:\auvm\PROYECTOS\Curso_C#\SobreCargaDeMetodos\obj\Debug\net8.0\SobreCargaDeMetodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\SobreCargaDeMetodos\obj\Debug\net8.0\SobreCargaDeMetodos.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\SobreCargaDeMetodos\obj\Debug\net8.0\SobreCargaDeMetodos.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\SobreCargaDeMetodos\obj\Debug\net8.0\SobreCargaDeMetodos.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\SobreCargaDeMetodos\obj\Debug\net8.0\SobreCargaDeMetodos.sourcelink.json
+D:\auvm\PROYECTOS\Curso_C#\SobreCargaDeMetodos\obj\Debug\net8.0\SobreCargaDeMetodos.dll
+D:\auvm\PROYECTOS\Curso_C#\SobreCargaDeMetodos\obj\Debug\net8.0\refint\SobreCargaDeMetodos.dll
+D:\auvm\PROYECTOS\Curso_C#\SobreCargaDeMetodos\obj\Debug\net8.0\SobreCargaDeMetodos.pdb
+D:\auvm\PROYECTOS\Curso_C#\SobreCargaDeMetodos\obj\Debug\net8.0\SobreCargaDeMetodos.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\SobreCargaDeMetodos\obj\Debug\net8.0\ref\SobreCargaDeMetodos.dll

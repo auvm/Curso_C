@@ -1,0 +1,15 @@
+D:\auvm\PROYECTOS\Curso_C#\SobreEscrituraMetodos\bin\Debug\net8.0\SobreEscrituraMetodos.exe
+D:\auvm\PROYECTOS\Curso_C#\SobreEscrituraMetodos\bin\Debug\net8.0\SobreEscrituraMetodos.deps.json
+D:\auvm\PROYECTOS\Curso_C#\SobreEscrituraMetodos\bin\Debug\net8.0\SobreEscrituraMetodos.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\SobreEscrituraMetodos\bin\Debug\net8.0\SobreEscrituraMetodos.dll
+D:\auvm\PROYECTOS\Curso_C#\SobreEscrituraMetodos\bin\Debug\net8.0\SobreEscrituraMetodos.pdb
+D:\auvm\PROYECTOS\Curso_C#\SobreEscrituraMetodos\obj\Debug\net8.0\SobreEscrituraMetodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\SobreEscrituraMetodos\obj\Debug\net8.0\SobreEscrituraMetodos.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\SobreEscrituraMetodos\obj\Debug\net8.0\SobreEscrituraMetodos.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\SobreEscrituraMetodos\obj\Debug\net8.0\SobreEscrituraMetodos.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\SobreEscrituraMetodos\obj\Debug\net8.0\SobreEscrituraMetodos.sourcelink.json
+D:\auvm\PROYECTOS\Curso_C#\SobreEscrituraMetodos\obj\Debug\net8.0\SobreEscrituraMetodos.dll
+D:\auvm\PROYECTOS\Curso_C#\SobreEscrituraMetodos\obj\Debug\net8.0\refint\SobreEscrituraMetodos.dll
+D:\auvm\PROYECTOS\Curso_C#\SobreEscrituraMetodos\obj\Debug\net8.0\SobreEscrituraMetodos.pdb
+D:\auvm\PROYECTOS\Curso_C#\SobreEscrituraMetodos\obj\Debug\net8.0\SobreEscrituraMetodos.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\SobreEscrituraMetodos\obj\Debug\net8.0\ref\SobreEscrituraMetodos.dll
