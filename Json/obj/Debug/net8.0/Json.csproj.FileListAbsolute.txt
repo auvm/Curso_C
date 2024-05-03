@@ -1,0 +1,15 @@
+D:\auvm\PROYECTOS\Curso_C#\Json\bin\Debug\net8.0\Json.exe
+D:\auvm\PROYECTOS\Curso_C#\Json\bin\Debug\net8.0\Json.deps.json
+D:\auvm\PROYECTOS\Curso_C#\Json\bin\Debug\net8.0\Json.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\Json\bin\Debug\net8.0\Json.dll
+D:\auvm\PROYECTOS\Curso_C#\Json\bin\Debug\net8.0\Json.pdb
+D:\auvm\PROYECTOS\Curso_C#\Json\obj\Debug\net8.0\Json.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\Json\obj\Debug\net8.0\Json.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Json\obj\Debug\net8.0\Json.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\Json\obj\Debug\net8.0\Json.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Json\obj\Debug\net8.0\Json.sourcelink.json
+D:\auvm\PROYECTOS\Curso_C#\Json\obj\Debug\net8.0\Json.dll
+D:\auvm\PROYECTOS\Curso_C#\Json\obj\Debug\net8.0\refint\Json.dll
+D:\auvm\PROYECTOS\Curso_C#\Json\obj\Debug\net8.0\Json.pdb
+D:\auvm\PROYECTOS\Curso_C#\Json\obj\Debug\net8.0\Json.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\Json\obj\Debug\net8.0\ref\Json.dll

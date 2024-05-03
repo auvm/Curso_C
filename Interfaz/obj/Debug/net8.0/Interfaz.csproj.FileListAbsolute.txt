@@ -1,0 +1,15 @@
+D:\auvm\PROYECTOS\Curso_C#\Interfaz\bin\Debug\net8.0\Interfaz.exe
+D:\auvm\PROYECTOS\Curso_C#\Interfaz\bin\Debug\net8.0\Interfaz.deps.json
+D:\auvm\PROYECTOS\Curso_C#\Interfaz\bin\Debug\net8.0\Interfaz.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\Interfaz\bin\Debug\net8.0\Interfaz.dll
+D:\auvm\PROYECTOS\Curso_C#\Interfaz\bin\Debug\net8.0\Interfaz.pdb
+D:\auvm\PROYECTOS\Curso_C#\Interfaz\obj\Debug\net8.0\Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\Interfaz\obj\Debug\net8.0\Interfaz.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Interfaz\obj\Debug\net8.0\Interfaz.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\Interfaz\obj\Debug\net8.0\Interfaz.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Interfaz\obj\Debug\net8.0\Interfaz.sourcelink.json
+D:\auvm\PROYECTOS\Curso_C#\Interfaz\obj\Debug\net8.0\Interfaz.dll
+D:\auvm\PROYECTOS\Curso_C#\Interfaz\obj\Debug\net8.0\refint\Interfaz.dll
+D:\auvm\PROYECTOS\Curso_C#\Interfaz\obj\Debug\net8.0\Interfaz.pdb
+D:\auvm\PROYECTOS\Curso_C#\Interfaz\obj\Debug\net8.0\Interfaz.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\Interfaz\obj\Debug\net8.0\ref\Interfaz.dll

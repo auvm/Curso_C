@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "D:\\auvm\\PROYECTOS\\Curso_C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9DEFF21-43FF-4278-82A3-4B84758177A3}|Static\\Static.csproj|d:\\auvm\\proyectos\\curso_c#\\static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9DEFF21-43FF-4278-82A3-4B84758177A3}|Static\\Static.csproj|solutionrelative:static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF83C706-1959-472C-83C9-AF0B3E46EC09}|SobreEscrituraMetodos\\SobreEscrituraMetodos.csproj|d:\\auvm\\proyectos\\curso_c#\\sobreescriturametodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF83C706-1959-472C-83C9-AF0B3E46EC09}|SobreEscrituraMetodos\\SobreEscrituraMetodos.csproj|solutionrelative:sobreescriturametodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11B61A30-4973-4350-B6FE-CC04596851CC}|test_comando\\test_comando.csproj|d:\\auvm\\proyectos\\curso_c#\\test_comando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B61A30-4973-4350-B6FE-CC04596851CC}|test_comando\\test_comando.csproj|solutionrelative:test_comando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3061168-E2A3-4E8B-AE75-15159886CCED}|SobreCargaDeMetodos\\SobreCargaDeMetodos.csproj|d:\\auvm\\proyectos\\curso_c#\\sobrecargademetodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3061168-E2A3-4E8B-AE75-15159886CCED}|SobreCargaDeMetodos\\SobreCargaDeMetodos.csproj|solutionrelative:sobrecargademetodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{702F316D-3457-439C-B419-59E1C105BE59}|Herencia\\Herencia.csproj|d:\\auvm\\proyectos\\curso_c#\\herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{702F316D-3457-439C-B419-59E1C105BE59}|Herencia\\Herencia.csproj|solutionrelative:herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BF2A46D-D22C-4776-807E-B383DEB9A8F2}|Json\\Json.csproj|d:\\auvm\\proyectos\\curso_c#\\json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF2A46D-D22C-4776-807E-B383DEB9A8F2}|Json\\Json.csproj|solutionrelative:json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,64 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\Static\\Program.cs",
-              "RelativeDocumentMoniker": "Static\\Program.cs",
-              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\Static\\Program.cs",
-              "RelativeToolTip": "Static\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBIAAABFAAAA",
+              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\Json\\Program.cs",
+              "RelativeDocumentMoniker": "Json\\Program.cs",
+              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\Json\\Program.cs",
+              "RelativeToolTip": "Json\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwDQAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T19:41:46.464Z",
+              "WhenOpened": "2024-05-03T05:34:30.257Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\SobreEscrituraMetodos\\Program.cs",
-              "RelativeDocumentMoniker": "SobreEscrituraMetodos\\Program.cs",
-              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\SobreEscrituraMetodos\\Program.cs",
-              "RelativeToolTip": "SobreEscrituraMetodos\\Program.cs",
-              "ViewState": "AQIAAFgAAAAAAAAAAAAmwGYAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T18:15:31.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\test_comando\\Program.cs",
-              "RelativeDocumentMoniker": "test_comando\\Program.cs",
-              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\test_comando\\Program.cs",
-              "RelativeToolTip": "test_comando\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T04:42:29.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\SobreCargaDeMetodos\\Program.cs",
-              "RelativeDocumentMoniker": "SobreCargaDeMetodos\\Program.cs",
-              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\SobreCargaDeMetodos\\Program.cs",
-              "RelativeToolTip": "SobreCargaDeMetodos\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T04:11:05.874Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\Herencia\\Program.cs",
-              "RelativeDocumentMoniker": "Herencia\\Program.cs",
-              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\Herencia\\Program.cs",
-              "RelativeToolTip": "Herencia\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T03:53:48.625Z"
             }
           ]
         }
