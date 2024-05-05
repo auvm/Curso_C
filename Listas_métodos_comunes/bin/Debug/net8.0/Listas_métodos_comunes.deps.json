@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Listas_métodos_comunes/1.0.0": {
+        "runtime": {
+          "Listas_métodos_comunes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Listas_métodos_comunes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

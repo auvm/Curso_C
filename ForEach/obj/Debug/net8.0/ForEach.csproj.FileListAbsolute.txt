@@ -1,0 +1,15 @@
+D:\auvm\PROYECTOS\Curso_C#\ForEach\bin\Debug\net8.0\ForEach.exe
+D:\auvm\PROYECTOS\Curso_C#\ForEach\bin\Debug\net8.0\ForEach.deps.json
+D:\auvm\PROYECTOS\Curso_C#\ForEach\bin\Debug\net8.0\ForEach.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\ForEach\bin\Debug\net8.0\ForEach.dll
+D:\auvm\PROYECTOS\Curso_C#\ForEach\bin\Debug\net8.0\ForEach.pdb
+D:\auvm\PROYECTOS\Curso_C#\ForEach\obj\Debug\net8.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\ForEach\obj\Debug\net8.0\ForEach.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\ForEach\obj\Debug\net8.0\ForEach.sourcelink.json
+D:\auvm\PROYECTOS\Curso_C#\ForEach\obj\Debug\net8.0\ForEach.dll
+D:\auvm\PROYECTOS\Curso_C#\ForEach\obj\Debug\net8.0\refint\ForEach.dll
+D:\auvm\PROYECTOS\Curso_C#\ForEach\obj\Debug\net8.0\ForEach.pdb
+D:\auvm\PROYECTOS\Curso_C#\ForEach\obj\Debug\net8.0\ForEach.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\ForEach\obj\Debug\net8.0\ref\ForEach.dll

@@ -1,0 +1,15 @@
+D:\auvm\PROYECTOS\Curso_C#\Listas_métodos_comunes\bin\Debug\net8.0\Listas_métodos_comunes.exe
+D:\auvm\PROYECTOS\Curso_C#\Listas_métodos_comunes\bin\Debug\net8.0\Listas_métodos_comunes.deps.json
+D:\auvm\PROYECTOS\Curso_C#\Listas_métodos_comunes\bin\Debug\net8.0\Listas_métodos_comunes.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\Listas_métodos_comunes\bin\Debug\net8.0\Listas_métodos_comunes.dll
+D:\auvm\PROYECTOS\Curso_C#\Listas_métodos_comunes\bin\Debug\net8.0\Listas_métodos_comunes.pdb
+D:\auvm\PROYECTOS\Curso_C#\Listas_métodos_comunes\obj\Debug\net8.0\Listas_métodos_comunes.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\Listas_métodos_comunes\obj\Debug\net8.0\Listas_métodos_comunes.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Listas_métodos_comunes\obj\Debug\net8.0\Listas_métodos_comunes.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\Listas_métodos_comunes\obj\Debug\net8.0\Listas_métodos_comunes.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Listas_métodos_comunes\obj\Debug\net8.0\Listas_métodos_comunes.sourcelink.json
+D:\auvm\PROYECTOS\Curso_C#\Listas_métodos_comunes\obj\Debug\net8.0\Listas_métodos_comunes.dll
+D:\auvm\PROYECTOS\Curso_C#\Listas_métodos_comunes\obj\Debug\net8.0\refint\Listas_métodos_comunes.dll
+D:\auvm\PROYECTOS\Curso_C#\Listas_métodos_comunes\obj\Debug\net8.0\Listas_métodos_comunes.pdb
+D:\auvm\PROYECTOS\Curso_C#\Listas_métodos_comunes\obj\Debug\net8.0\Listas_métodos_comunes.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\Listas_métodos_comunes\obj\Debug\net8.0\ref\Listas_métodos_comunes.dll

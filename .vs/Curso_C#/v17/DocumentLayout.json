@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\auvm\\PROYECTOS\\Curso_C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BF2A46D-D22C-4776-807E-B383DEB9A8F2}|Json\\Json.csproj|d:\\auvm\\proyectos\\curso_c#\\json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BF2A46D-D22C-4776-807E-B383DEB9A8F2}|Json\\Json.csproj|solutionrelative:json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD3464B2-6401-42C5-BB16-1C61A4A831FB}|Listas_m\u00E9todos_comunes\\Listas_m\u00E9todos_comunes.csproj|d:\\auvm\\proyectos\\curso_c#\\listas_m\u00E9todos_comunes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD3464B2-6401-42C5-BB16-1C61A4A831FB}|Listas_m\u00E9todos_comunes\\Listas_m\u00E9todos_comunes.csproj|solutionrelative:listas_m\u00E9todos_comunes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE96179-29D4-4BD9-B66E-B59D124F8D06}|ForEach\\ForEach.csproj|d:\\auvm\\proyectos\\curso_c#\\foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE96179-29D4-4BD9-B66E-B59D124F8D06}|ForEach\\ForEach.csproj|solutionrelative:foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\Json\\Program.cs",
-              "RelativeDocumentMoniker": "Json\\Program.cs",
-              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\Json\\Program.cs",
-              "RelativeToolTip": "Json\\Program.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAQwDQAAAA2AAAA",
+              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\Listas_m\u00E9todos_comunes\\Program.cs",
+              "RelativeDocumentMoniker": "Listas_m\u00E9todos_comunes\\Program.cs",
+              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\Listas_m\u00E9todos_comunes\\Program.cs",
+              "RelativeToolTip": "Listas_m\u00E9todos_comunes\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADIAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T05:34:30.257Z",
+              "WhenOpened": "2024-05-05T01:34:41.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\ForEach\\Program.cs",
+              "RelativeDocumentMoniker": "ForEach\\Program.cs",
+              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\ForEach\\Program.cs",
+              "RelativeToolTip": "ForEach\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T01:10:49.257Z",
               "EditorCaption": ""
             }
           ]

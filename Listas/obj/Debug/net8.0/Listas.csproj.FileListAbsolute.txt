@@ -1,0 +1,15 @@
+D:\auvm\PROYECTOS\Curso_C#\Listas\obj\Debug\net8.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\Listas\obj\Debug\net8.0\Listas.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Listas\obj\Debug\net8.0\Listas.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\Listas\obj\Debug\net8.0\Listas.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Listas\obj\Debug\net8.0\Listas.sourcelink.json
+D:\auvm\PROYECTOS\Curso_C#\Listas\bin\Debug\net8.0\Listas.exe
+D:\auvm\PROYECTOS\Curso_C#\Listas\bin\Debug\net8.0\Listas.deps.json
+D:\auvm\PROYECTOS\Curso_C#\Listas\bin\Debug\net8.0\Listas.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\Listas\bin\Debug\net8.0\Listas.dll
+D:\auvm\PROYECTOS\Curso_C#\Listas\bin\Debug\net8.0\Listas.pdb
+D:\auvm\PROYECTOS\Curso_C#\Listas\obj\Debug\net8.0\Listas.dll
+D:\auvm\PROYECTOS\Curso_C#\Listas\obj\Debug\net8.0\refint\Listas.dll
+D:\auvm\PROYECTOS\Curso_C#\Listas\obj\Debug\net8.0\Listas.pdb
+D:\auvm\PROYECTOS\Curso_C#\Listas\obj\Debug\net8.0\Listas.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\Listas\obj\Debug\net8.0\ref\Listas.dll
