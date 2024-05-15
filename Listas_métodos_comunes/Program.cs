@@ -34,7 +34,7 @@
             Console.WriteLine("1 se encuentra en el índice:" + numbers.IndexOf(1));
             Console.WriteLine("23 se encuentra en el índice:"+numbers.IndexOf(23));
             //si el elemento no existe en la lista, retorna -1
-            Console.WriteLine("100 se encuentra en el índice:" + numbers.IndexOf(100));
+            Console.WriteLine("100 se encuentra en el índice:" + numbers.IndexOf(100) + "o sea q no existe");
 
             Console.WriteLine("---------- Sort() mutable e inmutable----------");
             //método xxx.Sort(), ordena una lista

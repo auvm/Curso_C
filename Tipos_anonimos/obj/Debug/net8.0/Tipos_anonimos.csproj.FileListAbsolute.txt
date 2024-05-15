@@ -1,0 +1,15 @@
+D:\auvm\PROYECTOS\Curso_C#\Tipos_anonimos\bin\Debug\net8.0\Tipos_anonimos.exe
+D:\auvm\PROYECTOS\Curso_C#\Tipos_anonimos\bin\Debug\net8.0\Tipos_anonimos.deps.json
+D:\auvm\PROYECTOS\Curso_C#\Tipos_anonimos\bin\Debug\net8.0\Tipos_anonimos.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\Tipos_anonimos\bin\Debug\net8.0\Tipos_anonimos.dll
+D:\auvm\PROYECTOS\Curso_C#\Tipos_anonimos\bin\Debug\net8.0\Tipos_anonimos.pdb
+D:\auvm\PROYECTOS\Curso_C#\Tipos_anonimos\obj\Debug\net8.0\Tipos_anonimos.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\Tipos_anonimos\obj\Debug\net8.0\Tipos_anonimos.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Tipos_anonimos\obj\Debug\net8.0\Tipos_anonimos.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\Tipos_anonimos\obj\Debug\net8.0\Tipos_anonimos.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Tipos_anonimos\obj\Debug\net8.0\Tipos_anonimos.sourcelink.json
+D:\auvm\PROYECTOS\Curso_C#\Tipos_anonimos\obj\Debug\net8.0\Tipos_anonimos.dll
+D:\auvm\PROYECTOS\Curso_C#\Tipos_anonimos\obj\Debug\net8.0\refint\Tipos_anonimos.dll
+D:\auvm\PROYECTOS\Curso_C#\Tipos_anonimos\obj\Debug\net8.0\Tipos_anonimos.pdb
+D:\auvm\PROYECTOS\Curso_C#\Tipos_anonimos\obj\Debug\net8.0\Tipos_anonimos.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\Tipos_anonimos\obj\Debug\net8.0\ref\Tipos_anonimos.dll

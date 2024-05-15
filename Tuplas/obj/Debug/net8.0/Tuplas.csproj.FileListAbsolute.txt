@@ -1,0 +1,15 @@
+D:\auvm\PROYECTOS\Curso_C#\Tuplas\bin\Debug\net8.0\Tuplas.exe
+D:\auvm\PROYECTOS\Curso_C#\Tuplas\bin\Debug\net8.0\Tuplas.deps.json
+D:\auvm\PROYECTOS\Curso_C#\Tuplas\bin\Debug\net8.0\Tuplas.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\Tuplas\bin\Debug\net8.0\Tuplas.dll
+D:\auvm\PROYECTOS\Curso_C#\Tuplas\bin\Debug\net8.0\Tuplas.pdb
+D:\auvm\PROYECTOS\Curso_C#\Tuplas\obj\Debug\net8.0\Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\Tuplas\obj\Debug\net8.0\Tuplas.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Tuplas\obj\Debug\net8.0\Tuplas.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\Tuplas\obj\Debug\net8.0\Tuplas.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Tuplas\obj\Debug\net8.0\Tuplas.sourcelink.json
+D:\auvm\PROYECTOS\Curso_C#\Tuplas\obj\Debug\net8.0\Tuplas.dll
+D:\auvm\PROYECTOS\Curso_C#\Tuplas\obj\Debug\net8.0\refint\Tuplas.dll
+D:\auvm\PROYECTOS\Curso_C#\Tuplas\obj\Debug\net8.0\Tuplas.pdb
+D:\auvm\PROYECTOS\Curso_C#\Tuplas\obj\Debug\net8.0\Tuplas.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\Tuplas\obj\Debug\net8.0\ref\Tuplas.dll
