@@ -1,0 +1,15 @@
+D:\auvm\PROYECTOS\Curso_C#\LINQ_JOIN\obj\Debug\net8.0\LINQ_JOIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\LINQ_JOIN\obj\Debug\net8.0\LINQ_JOIN.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\LINQ_JOIN\obj\Debug\net8.0\LINQ_JOIN.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\LINQ_JOIN\obj\Debug\net8.0\LINQ_JOIN.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\LINQ_JOIN\obj\Debug\net8.0\LINQ_JOIN.sourcelink.json
+D:\auvm\PROYECTOS\Curso_C#\LINQ_JOIN\bin\Debug\net8.0\LINQ_JOIN.exe
+D:\auvm\PROYECTOS\Curso_C#\LINQ_JOIN\bin\Debug\net8.0\LINQ_JOIN.deps.json
+D:\auvm\PROYECTOS\Curso_C#\LINQ_JOIN\bin\Debug\net8.0\LINQ_JOIN.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\LINQ_JOIN\bin\Debug\net8.0\LINQ_JOIN.dll
+D:\auvm\PROYECTOS\Curso_C#\LINQ_JOIN\bin\Debug\net8.0\LINQ_JOIN.pdb
+D:\auvm\PROYECTOS\Curso_C#\LINQ_JOIN\obj\Debug\net8.0\LINQ_JOIN.dll
+D:\auvm\PROYECTOS\Curso_C#\LINQ_JOIN\obj\Debug\net8.0\refint\LINQ_JOIN.dll
+D:\auvm\PROYECTOS\Curso_C#\LINQ_JOIN\obj\Debug\net8.0\LINQ_JOIN.pdb
+D:\auvm\PROYECTOS\Curso_C#\LINQ_JOIN\obj\Debug\net8.0\LINQ_JOIN.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\LINQ_JOIN\obj\Debug\net8.0\ref\LINQ_JOIN.dll
