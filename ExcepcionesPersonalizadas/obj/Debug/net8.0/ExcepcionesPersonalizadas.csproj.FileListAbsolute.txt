@@ -1,0 +1,15 @@
+D:\auvm\PROYECTOS\Curso_C#\ExcepcionesPersonalizadas\bin\Debug\net8.0\ExcepcionesPersonalizadas.exe
+D:\auvm\PROYECTOS\Curso_C#\ExcepcionesPersonalizadas\bin\Debug\net8.0\ExcepcionesPersonalizadas.deps.json
+D:\auvm\PROYECTOS\Curso_C#\ExcepcionesPersonalizadas\bin\Debug\net8.0\ExcepcionesPersonalizadas.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\ExcepcionesPersonalizadas\bin\Debug\net8.0\ExcepcionesPersonalizadas.dll
+D:\auvm\PROYECTOS\Curso_C#\ExcepcionesPersonalizadas\bin\Debug\net8.0\ExcepcionesPersonalizadas.pdb
+D:\auvm\PROYECTOS\Curso_C#\ExcepcionesPersonalizadas\obj\Debug\net8.0\ExcepcionesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\ExcepcionesPersonalizadas\obj\Debug\net8.0\ExcepcionesPersonalizadas.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\ExcepcionesPersonalizadas\obj\Debug\net8.0\ExcepcionesPersonalizadas.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\ExcepcionesPersonalizadas\obj\Debug\net8.0\ExcepcionesPersonalizadas.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\ExcepcionesPersonalizadas\obj\Debug\net8.0\ExcepcionesPersonalizadas.sourcelink.json
+D:\auvm\PROYECTOS\Curso_C#\ExcepcionesPersonalizadas\obj\Debug\net8.0\ExcepcionesPersonalizadas.dll
+D:\auvm\PROYECTOS\Curso_C#\ExcepcionesPersonalizadas\obj\Debug\net8.0\refint\ExcepcionesPersonalizadas.dll
+D:\auvm\PROYECTOS\Curso_C#\ExcepcionesPersonalizadas\obj\Debug\net8.0\ExcepcionesPersonalizadas.pdb
+D:\auvm\PROYECTOS\Curso_C#\ExcepcionesPersonalizadas\obj\Debug\net8.0\ExcepcionesPersonalizadas.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\ExcepcionesPersonalizadas\obj\Debug\net8.0\ref\ExcepcionesPersonalizadas.dll

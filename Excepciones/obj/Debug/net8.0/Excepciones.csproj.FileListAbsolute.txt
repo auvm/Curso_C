@@ -1,0 +1,15 @@
+D:\auvm\PROYECTOS\Curso_C#\Excepciones\bin\Debug\net8.0\Excepciones.exe
+D:\auvm\PROYECTOS\Curso_C#\Excepciones\bin\Debug\net8.0\Excepciones.deps.json
+D:\auvm\PROYECTOS\Curso_C#\Excepciones\bin\Debug\net8.0\Excepciones.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\Excepciones\bin\Debug\net8.0\Excepciones.dll
+D:\auvm\PROYECTOS\Curso_C#\Excepciones\bin\Debug\net8.0\Excepciones.pdb
+D:\auvm\PROYECTOS\Curso_C#\Excepciones\obj\Debug\net8.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\Excepciones\obj\Debug\net8.0\Excepciones.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Excepciones\obj\Debug\net8.0\Excepciones.sourcelink.json
+D:\auvm\PROYECTOS\Curso_C#\Excepciones\obj\Debug\net8.0\Excepciones.dll
+D:\auvm\PROYECTOS\Curso_C#\Excepciones\obj\Debug\net8.0\refint\Excepciones.dll
+D:\auvm\PROYECTOS\Curso_C#\Excepciones\obj\Debug\net8.0\Excepciones.pdb
+D:\auvm\PROYECTOS\Curso_C#\Excepciones\obj\Debug\net8.0\Excepciones.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\Excepciones\obj\Debug\net8.0\ref\Excepciones.dll

@@ -33,7 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listas_métodos_comunes", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tipos_anonimos", "Tipos_anonimos\Tipos_anonimos.csproj", "{6B109AB2-F4AC-4188-B1C2-B5656CC53322}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuplas", "Tuplas\Tuplas.csproj", "{A225A04E-6931-43CE-ABD4-DB666F21C504}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuplas", "Tuplas\Tuplas.csproj", "{A225A04E-6931-43CE-ABD4-DB666F21C504}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Excepciones", "Excepciones\Excepciones.csproj", "{058693E0-2BF4-4096-B068-8B9A434925BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcepcionesPersonalizadas", "ExcepcionesPersonalizadas\ExcepcionesPersonalizadas.csproj", "{7C10753F-5D32-4E0B-B4C9-D7BCB2266FDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{A225A04E-6931-43CE-ABD4-DB666F21C504}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A225A04E-6931-43CE-ABD4-DB666F21C504}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A225A04E-6931-43CE-ABD4-DB666F21C504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{058693E0-2BF4-4096-B068-8B9A434925BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058693E0-2BF4-4096-B068-8B9A434925BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058693E0-2BF4-4096-B068-8B9A434925BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058693E0-2BF4-4096-B068-8B9A434925BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C10753F-5D32-4E0B-B4C9-D7BCB2266FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C10753F-5D32-4E0B-B4C9-D7BCB2266FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C10753F-5D32-4E0B-B4C9-D7BCB2266FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C10753F-5D32-4E0B-B4C9-D7BCB2266FDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
