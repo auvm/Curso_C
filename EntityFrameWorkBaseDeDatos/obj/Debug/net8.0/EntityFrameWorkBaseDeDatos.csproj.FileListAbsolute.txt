@@ -1,0 +1,15 @@
+D:\auvm\PROYECTOS\Curso_C#\EntityFrameWorkBaseDeDatos\bin\Debug\net8.0\EntityFrameWorkBaseDeDatos.deps.json
+D:\auvm\PROYECTOS\Curso_C#\EntityFrameWorkBaseDeDatos\bin\Debug\net8.0\EntityFrameWorkBaseDeDatos.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\EntityFrameWorkBaseDeDatos\bin\Debug\net8.0\EntityFrameWorkBaseDeDatos.dll
+D:\auvm\PROYECTOS\Curso_C#\EntityFrameWorkBaseDeDatos\bin\Debug\net8.0\EntityFrameWorkBaseDeDatos.pdb
+D:\auvm\PROYECTOS\Curso_C#\EntityFrameWorkBaseDeDatos\obj\Debug\net8.0\EntityFrameWorkBaseDeDatos.csproj.AssemblyReference.cache
+D:\auvm\PROYECTOS\Curso_C#\EntityFrameWorkBaseDeDatos\obj\Debug\net8.0\EntityFrameWorkBaseDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\EntityFrameWorkBaseDeDatos\obj\Debug\net8.0\EntityFrameWorkBaseDeDatos.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\EntityFrameWorkBaseDeDatos\obj\Debug\net8.0\EntityFrameWorkBaseDeDatos.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\EntityFrameWorkBaseDeDatos\obj\Debug\net8.0\EntityFrameWorkBaseDeDatos.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\EntityFrameWorkBaseDeDatos\obj\Debug\net8.0\EntityFrameWorkBaseDeDatos.sourcelink.json
+D:\auvm\PROYECTOS\Curso_C#\EntityFrameWorkBaseDeDatos\obj\Debug\net8.0\EntityFrameWorkBaseDeDatos.dll
+D:\auvm\PROYECTOS\Curso_C#\EntityFrameWorkBaseDeDatos\obj\Debug\net8.0\refint\EntityFrameWorkBaseDeDatos.dll
+D:\auvm\PROYECTOS\Curso_C#\EntityFrameWorkBaseDeDatos\obj\Debug\net8.0\EntityFrameWorkBaseDeDatos.pdb
+D:\auvm\PROYECTOS\Curso_C#\EntityFrameWorkBaseDeDatos\obj\Debug\net8.0\EntityFrameWorkBaseDeDatos.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\EntityFrameWorkBaseDeDatos\obj\Debug\net8.0\ref\EntityFrameWorkBaseDeDatos.dll

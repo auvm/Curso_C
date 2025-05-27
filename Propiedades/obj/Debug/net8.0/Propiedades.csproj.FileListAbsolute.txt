@@ -12,3 +12,4 @@ D:\auvm\PROYECTOS\Curso_C#\Propiedades\obj\Debug\net8.0\refint\Propiedades.dll
 D:\auvm\PROYECTOS\Curso_C#\Propiedades\obj\Debug\net8.0\Propiedades.pdb
 D:\auvm\PROYECTOS\Curso_C#\Propiedades\obj\Debug\net8.0\Propiedades.genruntimeconfig.cache
 D:\auvm\PROYECTOS\Curso_C#\Propiedades\obj\Debug\net8.0\ref\Propiedades.dll
+D:\auvm\PROYECTOS\Curso_C#\Propiedades\obj\Debug\net8.0\Propiedades.sourcelink.json

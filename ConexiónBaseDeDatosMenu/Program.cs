@@ -115,7 +115,7 @@ namespace ConexiónBaseDeDatosMenu
 
             operación.Insertar(new Beer(name, brandId));
 
-            Console.WriteLine("\nRegistro exitoso...");
+            Console.WriteLine("\nRegistro exitoso... 👍");
 
             Console.ReadLine();
         }        
@@ -169,7 +169,7 @@ namespace ConexiónBaseDeDatosMenu
                 if(confirmación == "s" || confirmación == "S")
                 {
                     operación.Eliminar(id);
-                    Console.WriteLine("\nSe eliminó correctamente.");
+                    Console.WriteLine("\nSe eliminó correctamente... 👍");
                 }
                 else
                 {

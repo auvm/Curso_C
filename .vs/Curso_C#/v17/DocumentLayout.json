@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\auvm\\PROYECTOS\\Curso_C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA7F878B-A344-4E0E-884C-08BF1267C85A}|Conexi\u00F3nBaseDeDatosMenu\\Conexi\u00F3nBaseDeDatosMenu.csproj|d:\\auvm\\proyectos\\curso_c#\\conexi\u00F3nbasededatosmenu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA7F878B-A344-4E0E-884C-08BF1267C85A}|Conexi\u00F3nBaseDeDatosMenu\\Conexi\u00F3nBaseDeDatosMenu.csproj|solutionrelative:conexi\u00F3nbasededatosmenu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16CF80E6-9083-4155-BAC8-19E939680F4E}|EntityFrameWorkBaseDeDatos\\EntityFrameWorkBaseDeDatos.csproj|d:\\auvm\\proyectos\\curso_c#\\entityframeworkbasededatos\\cursocscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CF80E6-9083-4155-BAC8-19E939680F4E}|EntityFrameWorkBaseDeDatos\\EntityFrameWorkBaseDeDatos.csproj|solutionrelative:entityframeworkbasededatos\\cursocscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA7F878B-A344-4E0E-884C-08BF1267C85A}|Conexi\u00F3nBaseDeDatosMenu\\Conexi\u00F3nBaseDeDatosMenu.csproj|D:\\auvm\\PROYECTOS\\Curso_C#\\conexi\u00F3nbasededatosmenu\\operaci\u00F3nbasededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA7F878B-A344-4E0E-884C-08BF1267C85A}|Conexi\u00F3nBaseDeDatosMenu\\Conexi\u00F3nBaseDeDatosMenu.csproj|solutionrelative:conexi\u00F3nbasededatosmenu\\operaci\u00F3nbasededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA7F878B-A344-4E0E-884C-08BF1267C85A}|Conexi\u00F3nBaseDeDatosMenu\\Conexi\u00F3nBaseDeDatosMenu.csproj|D:\\auvm\\PROYECTOS\\Curso_C#\\conexi\u00F3nbasededatosmenu\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA7F878B-A344-4E0E-884C-08BF1267C85A}|Conexi\u00F3nBaseDeDatosMenu\\Conexi\u00F3nBaseDeDatosMenu.csproj|solutionrelative:conexi\u00F3nbasededatosmenu\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA7F878B-A344-4E0E-884C-08BF1267C85A}|Conexi\u00F3nBaseDeDatosMenu\\Conexi\u00F3nBaseDeDatosMenu.csproj|D:\\auvm\\PROYECTOS\\Curso_C#\\conexi\u00F3nbasededatosmenu\\conexi\u00F3nabstracta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA7F878B-A344-4E0E-884C-08BF1267C85A}|Conexi\u00F3nBaseDeDatosMenu\\Conexi\u00F3nBaseDeDatosMenu.csproj|solutionrelative:conexi\u00F3nbasededatosmenu\\conexi\u00F3nabstracta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E156F14-D748-493F-8D97-F5096644B541}|EntityFrameworkImplementaci\u00F3n\\EntityFrameworkImplementaci\u00F3n.csproj|d:\\auvm\\proyectos\\curso_c#\\entityframeworkimplementaci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E156F14-D748-493F-8D97-F5096644B541}|EntityFrameworkImplementaci\u00F3n\\EntityFrameworkImplementaci\u00F3n.csproj|solutionrelative:entityframeworkimplementaci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\Conexi\u00F3nBaseDeDatosMenu\\Program.cs",
-              "RelativeDocumentMoniker": "Conexi\u00F3nBaseDeDatosMenu\\Program.cs",
-              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\Conexi\u00F3nBaseDeDatosMenu\\Program.cs",
-              "RelativeToolTip": "Conexi\u00F3nBaseDeDatosMenu\\Program.cs",
-              "ViewState": "AQIAAJ4AAAAAAAAAAAAAAK8AAABTAAAA",
+              "Title": "CursoCsContext.cs",
+              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\EntityFrameWorkBaseDeDatos\\CursoCsContext.cs",
+              "RelativeDocumentMoniker": "EntityFrameWorkBaseDeDatos\\CursoCsContext.cs",
+              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\EntityFrameWorkBaseDeDatos\\CursoCsContext.cs",
+              "RelativeToolTip": "EntityFrameWorkBaseDeDatos\\CursoCsContext.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T05:47:32.608Z",
+              "WhenOpened": "2025-05-27T20:05:17.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Operaci\u00F3nBaseDeDatos.cs",
-              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\Conexi\u00F3nBaseDeDatosMenu\\Operaci\u00F3nBaseDeDatos.cs",
-              "RelativeDocumentMoniker": "Conexi\u00F3nBaseDeDatosMenu\\Operaci\u00F3nBaseDeDatos.cs",
-              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\Conexi\u00F3nBaseDeDatosMenu\\Operaci\u00F3nBaseDeDatos.cs",
-              "RelativeToolTip": "Conexi\u00F3nBaseDeDatosMenu\\Operaci\u00F3nBaseDeDatos.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAgwGYAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\EntityFrameworkImplementaci\u00F3n\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkImplementaci\u00F3n\\Program.cs",
+              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\EntityFrameworkImplementaci\u00F3n\\Program.cs",
+              "RelativeToolTip": "EntityFrameworkImplementaci\u00F3n\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAywCEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T05:43:51.784Z",
+              "WhenOpened": "2025-05-27T19:36:09.107Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Conexi\u00F3nAbstracta.cs",
-              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\Conexi\u00F3nBaseDeDatosMenu\\Conexi\u00F3nAbstracta.cs",
-              "RelativeDocumentMoniker": "Conexi\u00F3nBaseDeDatosMenu\\Conexi\u00F3nAbstracta.cs",
-              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\Conexi\u00F3nBaseDeDatosMenu\\Conexi\u00F3nAbstracta.cs",
-              "RelativeToolTip": "Conexi\u00F3nBaseDeDatosMenu\\Conexi\u00F3nAbstracta.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T05:37:01.454Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Beer.cs",
-              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\Conexi\u00F3nBaseDeDatosMenu\\Beer.cs",
-              "RelativeDocumentMoniker": "Conexi\u00F3nBaseDeDatosMenu\\Beer.cs",
-              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\Conexi\u00F3nBaseDeDatosMenu\\Beer.cs",
-              "RelativeToolTip": "Conexi\u00F3nBaseDeDatosMenu\\Beer.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAzwA0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T06:51:58.749Z"
             }
           ]
         }

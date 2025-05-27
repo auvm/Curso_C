@@ -12,3 +12,4 @@ D:\auvm\PROYECTOS\Curso_C#\ClasesYObjetos\obj\Debug\net8.0\refint\ClasesYObjetos
 D:\auvm\PROYECTOS\Curso_C#\ClasesYObjetos\obj\Debug\net8.0\ClasesYObjetos.pdb
 D:\auvm\PROYECTOS\Curso_C#\ClasesYObjetos\obj\Debug\net8.0\ClasesYObjetos.genruntimeconfig.cache
 D:\auvm\PROYECTOS\Curso_C#\ClasesYObjetos\obj\Debug\net8.0\ref\ClasesYObjetos.dll
+D:\auvm\PROYECTOS\Curso_C#\ClasesYObjetos\obj\Debug\net8.0\ClasesYObjetos.sourcelink.json
