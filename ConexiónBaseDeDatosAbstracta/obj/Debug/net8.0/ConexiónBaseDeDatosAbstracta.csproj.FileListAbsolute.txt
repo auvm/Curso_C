@@ -15,9 +15,9 @@ D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosAbstracta\obj\Debug\net8.0\Conexi
 D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosAbstracta\obj\Debug\net8.0\ConexiónBaseDeDatosAbstracta.AssemblyInfo.cs
 D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosAbstracta\obj\Debug\net8.0\ConexiónBaseDeDatosAbstracta.csproj.CoreCompileInputs.cache
 D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosAbstracta\obj\Debug\net8.0\ConexiónBaseDeDatosAbstracta.sourcelink.json
-D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosAbstracta\obj\Debug\net8.0\Conexión.35066806.Up2Date
 D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosAbstracta\obj\Debug\net8.0\ConexiónBaseDeDatosAbstracta.dll
 D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosAbstracta\obj\Debug\net8.0\refint\ConexiónBaseDeDatosAbstracta.dll
 D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosAbstracta\obj\Debug\net8.0\ConexiónBaseDeDatosAbstracta.pdb
 D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosAbstracta\obj\Debug\net8.0\ConexiónBaseDeDatosAbstracta.genruntimeconfig.cache
 D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosAbstracta\obj\Debug\net8.0\ref\ConexiónBaseDeDatosAbstracta.dll
+D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosAbstracta\obj\Debug\net8.0\Conexi_n.35066806.Up2Date

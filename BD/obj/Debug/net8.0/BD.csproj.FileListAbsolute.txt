@@ -1,0 +1,15 @@
+D:\auvm\PROYECTOS\Curso_C#\BD\bin\Debug\net8.0\BD.deps.json
+D:\auvm\PROYECTOS\Curso_C#\BD\bin\Debug\net8.0\BD.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\BD\bin\Debug\net8.0\BD.dll
+D:\auvm\PROYECTOS\Curso_C#\BD\bin\Debug\net8.0\BD.pdb
+D:\auvm\PROYECTOS\Curso_C#\BD\obj\Debug\net8.0\BD.csproj.AssemblyReference.cache
+D:\auvm\PROYECTOS\Curso_C#\BD\obj\Debug\net8.0\BD.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\BD\obj\Debug\net8.0\BD.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\BD\obj\Debug\net8.0\BD.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\BD\obj\Debug\net8.0\BD.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\BD\obj\Debug\net8.0\BD.sourcelink.json
+D:\auvm\PROYECTOS\Curso_C#\BD\obj\Debug\net8.0\BD.dll
+D:\auvm\PROYECTOS\Curso_C#\BD\obj\Debug\net8.0\refint\BD.dll
+D:\auvm\PROYECTOS\Curso_C#\BD\obj\Debug\net8.0\BD.pdb
+D:\auvm\PROYECTOS\Curso_C#\BD\obj\Debug\net8.0\BD.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\BD\obj\Debug\net8.0\ref\BD.dll

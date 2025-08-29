@@ -15,9 +15,9 @@ D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosMenu\obj\Debug\net8.0\ConexiónBa
 D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosMenu\obj\Debug\net8.0\ConexiónBaseDeDatosMenu.AssemblyInfo.cs
 D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosMenu\obj\Debug\net8.0\ConexiónBaseDeDatosMenu.csproj.CoreCompileInputs.cache
 D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosMenu\obj\Debug\net8.0\ConexiónBaseDeDatosMenu.sourcelink.json
-D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosMenu\obj\Debug\net8.0\Conexión.3D04CAF5.Up2Date
 D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosMenu\obj\Debug\net8.0\ConexiónBaseDeDatosMenu.dll
 D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosMenu\obj\Debug\net8.0\refint\ConexiónBaseDeDatosMenu.dll
 D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosMenu\obj\Debug\net8.0\ConexiónBaseDeDatosMenu.pdb
 D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosMenu\obj\Debug\net8.0\ConexiónBaseDeDatosMenu.genruntimeconfig.cache
 D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosMenu\obj\Debug\net8.0\ref\ConexiónBaseDeDatosMenu.dll
+D:\auvm\PROYECTOS\Curso_C#\ConexiónBaseDeDatosMenu\obj\Debug\net8.0\Conexi_n.3D04CAF5.Up2Date
