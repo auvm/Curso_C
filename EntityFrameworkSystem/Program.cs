@@ -1,7 +1,7 @@
-﻿
-using Azure;
+﻿using Azure;
 using BD;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using System.Collections.Generic;
 
 namespace EntityFrameworkSystem
@@ -20,10 +20,12 @@ namespace EntityFrameworkSystem
 
             do
             {
+                Console.BackgroundColor = ConsoleColor.DarkBlue;
+                Console.ForegroundColor = ConsoleColor.White;
                 Console.Clear();
 
                 MostrarMenú();
-                Console.WriteLine("\nElige una opción:");
+                Console.Write("\nElige una opción:");
 
                 string? respuesta = Console.ReadLine(); // mecanismo para evitar warnings de posibles nulos
                 if (int.TryParse(respuesta, out int opción))// mecanismo para evitar warnings de posibles nulos
@@ -38,6 +40,10 @@ namespace EntityFrameworkSystem
                             Console.WriteLine("------------ Consultar Cerveza ------------\n");
                             consultarCerveza(optionsBuilder);
                             break;
+                        case 3:
+                            Console.WriteLine("------------ Insertat Cerveza ------------\n");
+                            insertarCerveza(optionsBuilder);
+                            break;
                         case 6:
                             repetir = false;
                             break;
@@ -48,7 +54,7 @@ namespace EntityFrameworkSystem
                 }
                 else
                 {
-                    Console.WriteLine("\nLa opción ingresada no es válida.");
+                    Console.Write("\nLa opción ingresada no es válida.");
                     Console.ReadLine();
                     return;
                 }
@@ -56,6 +62,7 @@ namespace EntityFrameworkSystem
             } while (repetir);
 
         }
+
 
         public static void MostrarMenú()
         {
@@ -97,8 +104,8 @@ namespace EntityFrameworkSystem
 
 
                 List<Beer> ListaDeBeers4 = (from b in context.Beers
-                                            where b.BrandId == 2
-                                            orderby b.Name descending
+                                            //where b.BrandId == 2
+                                            //orderby b.Name descending
                                             select b).Include(b=>b.Brand).ToList(); //Para hacer el join e incluir los datos de la tabla Brand
 
                 Console.WriteLine($"\n\n{"ID",-10} {"Nombre",-20} {"Brand",-10}");
@@ -144,8 +151,65 @@ namespace EntityFrameworkSystem
                 Console.ReadLine();
                 return;
             }
-        }           
-                     
-                    
+        }
+
+        private static void insertarCerveza(DbContextOptionsBuilder<CursoCsContext> optionsBuilder)
+        {
+            bool completado = true;
+            string? nombre = "";
+            int? marca = null;
+
+
+            System.Console.Clear();
+            do
+            {
+                Console.Write("Ingresa el nombre de la cerveza: ");
+                nombre = Console.ReadLine();
+                if (string.IsNullOrWhiteSpace(nombre))
+                {
+                    Console.WriteLine("\nEl nombre no puede estar vacío.");
+                    Console.ReadLine();
+                }
+                else
+                {
+                    do
+                    {
+                        using (var context = new CursoCsContext(optionsBuilder.Options))
+                        {
+                            List<Brand> ListaDeMarcas = context.Brands.ToList(); //Forma básica para traer la lista
+                            Console.WriteLine($"\n\n{"ID",-10} {"Nombre",-20}");
+                            foreach (Brand b in ListaDeMarcas)
+                            {
+                                Console.WriteLine($"{b.Id,-10} {b.Name,-20}");
+                            }
+                        }
+                            Console.Write("\nIngresa el ID de la marca:");
+                        marca = int.Parse(Console.ReadLine());
+                        if (marca == null)
+                        {
+                            Console.WriteLine("\nEl nombre no puede estar vacío.");
+                            Console.ReadLine();
+                        }
+                        else
+                        {
+                            completado = false;
+                        }
+                    }while (completado);
+                }
+            }while (completado);
+
+            using (var context = new CursoCsContext(optionsBuilder.Options))
+            {
+                var beer = new Beer
+                {
+                    Name = nombre,
+                    BrandId = marca.Value
+                };
+                context.Beers.Add(beer);
+                context.SaveChanges();
+            }
+            
+
+        }
     }
 }
