@@ -41,8 +41,16 @@ namespace EntityFrameworkSystem
                             consultarCerveza(optionsBuilder);
                             break;
                         case 3:
-                            Console.WriteLine("------------ Insertat Cerveza ------------\n");
+                            Console.WriteLine("------------ Insertar Cerveza ------------\n");
                             insertarCerveza(optionsBuilder);
+                            break;
+                        case 4:
+                            Console.WriteLine("------------ Modificar Cerveza ------------\n");
+                            modificarCerveza(optionsBuilder);
+                            break;
+                        case 5:
+                            Console.WriteLine("------------ Eliminar Cerveza ------------\n");
+                            eliminarCerveza(optionsBuilder);
                             break;
                         case 6:
                             repetir = false;
@@ -63,17 +71,111 @@ namespace EntityFrameworkSystem
 
         }
 
-
-        public static void MostrarMenú()
+        private static void eliminarCerveza(DbContextOptionsBuilder<CursoCsContext> optionsBuilder)
         {
-            Console.WriteLine("------------ Menú ------------\n");
-            Console.WriteLine("1.- Consultar tabla");
-            Console.WriteLine("2.- Consultar una cerveza");
-            Console.WriteLine("3.- Insertar");
-            Console.WriteLine("4.- Modificar");
-            Console.WriteLine("5.- Eliminar");
-            Console.WriteLine("6.- Salir");
+            int idCerveza;
+            string? respuesta;
+            Console.Clear();
+            Console.WriteLine("------------ Eliminar cerveza ------------\n");
+            consultarTablaCervezas(optionsBuilder);
+            Console.Write("\nIngresa el ID de la cerveza a eliminar: ");
+            respuesta = Console.ReadLine();
+            if (String.IsNullOrWhiteSpace(respuesta))
+            {
+                Console.WriteLine("Se debe ingresar un ID.");
+            }
+            else
+            {
+                using(var context = new CursoCsContext(optionsBuilder.Options))
+                {
+                    if (!int.TryParse(respuesta, out idCerveza))
+                    {
+                        Console.WriteLine("El ID ingresado no es válido.");
+                        Console.ReadLine();
+                        return;
+                    }
+                    else 
+                    {
+                        var beer = context.Beers.Find(int.Parse(respuesta));
+                        if (beer != null)
+                        {
+                            context.Beers.Remove(beer);
+                            context.SaveChanges();
+                            Console.WriteLine($"La cerveza con ID {idCerveza} eliminó correctamente.");
+                        }
+                    }
+                    
+                }
+            }
+            Console.ReadLine();
+
+
         }
+
+        private static void modificarCerveza(DbContextOptionsBuilder<CursoCsContext> optionsBuilder)
+        {
+            
+            Console.Clear();
+            Console.WriteLine("------------ Modificar cerveza ------------\n");
+            consultarTablaCervezas(optionsBuilder);
+            Console.Write("\nIngresa el ID de la cerveza a modificar: ");
+            int idCerveza;
+            string? respuesta = Console.ReadLine();
+            if (!int.TryParse(respuesta, out idCerveza))
+            {
+                Console.WriteLine("\nEl ID no puede estar vacío o no es válido.");
+                Console.ReadLine();
+                return;
+            }
+            using (var context = new CursoCsContext(optionsBuilder.Options))
+            {
+                var beer = context.Beers.Find(idCerveza);
+                string? nuevoNombre;
+                int nuevaMarca;
+                if (beer != null)
+                {
+                    do
+                    {
+                        Console.Write($"\nIngresa el nuevo nombre de la cerveza (actual: {beer.Name}): ");
+                        nuevoNombre = Console.ReadLine();
+                    } while (string.IsNullOrWhiteSpace(nuevoNombre));
+
+                    consultarTablaMarcas(optionsBuilder);
+                    Brand? brand = null;
+                    do
+                    {
+                        Console.Write($"\nIngresa el nuevo ID de la marca (actual: {beer.BrandId}): ");
+                        string? marcaInput = Console.ReadLine();
+                        if (int.TryParse(marcaInput, out nuevaMarca))
+                        {
+                            brand = context.Brands.Find(nuevaMarca);
+                            if (brand == null)
+                            {
+                                Console.WriteLine("El ID de marca no existe. Intenta de nuevo.");
+                            }
+                        }
+                        else
+                        {
+                            Console.WriteLine("El ID ingresado no es válido. Intenta de nuevo.");
+                        }
+                    } while (brand == null);
+
+                    beer.Name = nuevoNombre;
+                    beer.BrandId = nuevaMarca;
+
+                    context.Entry(beer).State = EntityState.Modified; //Marca la entidad como modificada   
+                    context.SaveChanges();
+                    Console.WriteLine("\nCerveza modificada exitosamente.");
+                }
+                else
+                {
+                    Console.WriteLine("\nNo se encontró ninguna cerveza con ese ID.");
+                }
+            }
+            Console.ReadLine();
+
+        }
+
 
         public static void consultarTabla(DbContextOptionsBuilder<CursoCsContext> optionBuilder)
         {
@@ -96,19 +198,12 @@ namespace EntityFrameworkSystem
                                             orderby b.Name descending
                                             select b).ToList(); 
 
-                Console.WriteLine($"{"ID",-10} {"Nombre",-20} {"BrandID",-10}");
-                foreach (Beer b in ListaDeBeers3)
-                {
-                    Console.WriteLine($"{b.Id,-10} {b.Name,-20} {b.BrandId,-10}");
-                }
-
-
                 List<Beer> ListaDeBeers4 = (from b in context.Beers
                                             //where b.BrandId == 2
                                             //orderby b.Name descending
                                             select b).Include(b=>b.Brand).ToList(); //Para hacer el join e incluir los datos de la tabla Brand
 
-                Console.WriteLine($"\n\n{"ID",-10} {"Nombre",-20} {"Brand",-10}");
+                Console.WriteLine($"{"ID",-10} {"Nombre",-20} {"Brand",-10}");
                 foreach (Beer b in ListaDeBeers4)
                 {
                     Console.WriteLine($"{b.Id,-10} {b.Name,-20} {b.Brand.Name,-10}");
@@ -117,7 +212,39 @@ namespace EntityFrameworkSystem
                 Console.ReadLine();
             }
         }
+        public static void consultarTablaCervezas(DbContextOptionsBuilder<CursoCsContext> optionBuilder)
+        {
+            Console.WriteLine("Cervezas registradas:");
 
+
+            using (var context = new CursoCsContext(optionBuilder.Options))
+            {
+
+                List<Beer> ListaDeBeers = (from b in context.Beers
+                                            select b).Include(b => b.Brand).ToList(); //Para hacer el join e incluir los datos de la tabla Brand
+
+                Console.WriteLine($"{"ID",-10} {"Nombre",-20} {"Brand",-10}");
+                foreach (Beer b in ListaDeBeers)
+                {
+                    Console.WriteLine($"{b.Id,-10} {b.Name,-20} {b.Brand.Name,-10}");
+                }
+
+            }
+        }
+        public static void consultarTablaMarcas(DbContextOptionsBuilder<CursoCsContext> optionBuilder)
+        {
+            Console.WriteLine("Marcas registradas:");
+            using (var context = new CursoCsContext(optionBuilder.Options))
+            {
+                List<Brand> ListaDeMarcas = context.Brands.ToList(); //Forma básica para traer la lista
+
+                Console.WriteLine($"{"ID",-10} {"Nombre",-20}");
+                foreach (Brand b in ListaDeMarcas)
+                {
+                    Console.WriteLine($"{b.Id,-10} {b.Name,-20}");
+                }
+            }
+        }
         public static void consultarCerveza(DbContextOptionsBuilder<CursoCsContext> optionsBuilder)
         {
             System.Console.Clear();
@@ -152,64 +279,57 @@ namespace EntityFrameworkSystem
                 return;
             }
         }
-
         private static void insertarCerveza(DbContextOptionsBuilder<CursoCsContext> optionsBuilder)
         {
-            bool completado = true;
             string? nombre = "";
-            int? marca = null;
+            int marca;
 
 
             System.Console.Clear();
-            do
+            
+            
+            Console.Write("Ingresa el nombre de la cerveza: ");
+            nombre = Console.ReadLine();
+            if (string.IsNullOrWhiteSpace(nombre))
             {
-                Console.Write("Ingresa el nombre de la cerveza: ");
-                nombre = Console.ReadLine();
-                if (string.IsNullOrWhiteSpace(nombre))
+                Console.WriteLine("\nEl nombre no puede estar vacío.");
+                Console.ReadLine();
+            }
+            else
+            {
+                consultarTablaMarcas(optionsBuilder);
+                Console.Write("\nIngresa el ID de la marca:");
+                string respuesta = Console.ReadLine();
+                if (int.TryParse(respuesta, out marca))
                 {
-                    Console.WriteLine("\nEl nombre no puede estar vacío.");
-                    Console.ReadLine();
+                    using (var context = new CursoCsContext(optionsBuilder.Options))
+                    {
+                        var beer = new Beer
+                        {
+                            Name = nombre,
+                            BrandId = marca
+                        };
+                        context.Beers.Add(beer); //agrega la nueva cerveza al contexto
+                        context.SaveChanges();  //guarda los cambios en la base de datos
+                    }
                 }
                 else
                 {
-                    do
-                    {
-                        using (var context = new CursoCsContext(optionsBuilder.Options))
-                        {
-                            List<Brand> ListaDeMarcas = context.Brands.ToList(); //Forma básica para traer la lista
-                            Console.WriteLine($"\n\n{"ID",-10} {"Nombre",-20}");
-                            foreach (Brand b in ListaDeMarcas)
-                            {
-                                Console.WriteLine($"{b.Id,-10} {b.Name,-20}");
-                            }
-                        }
-                            Console.Write("\nIngresa el ID de la marca:");
-                        marca = int.Parse(Console.ReadLine());
-                        if (marca == null)
-                        {
-                            Console.WriteLine("\nEl nombre no puede estar vacío.");
-                            Console.ReadLine();
-                        }
-                        else
-                        {
-                            completado = false;
-                        }
-                    }while (completado);
+                    Console.WriteLine("\nEl ID no es válido.");
+                    Console.ReadLine();
                 }
-            }while (completado);
+            }           
 
-            using (var context = new CursoCsContext(optionsBuilder.Options))
-            {
-                var beer = new Beer
-                {
-                    Name = nombre,
-                    BrandId = marca.Value
-                };
-                context.Beers.Add(beer);
-                context.SaveChanges();
-            }
-            
-
+        }
+        public static void MostrarMenú()
+        {
+            Console.WriteLine("------------ Menú ------------\n");
+            Console.WriteLine("1.- Consultar tabla");
+            Console.WriteLine("2.- Consultar una cerveza");
+            Console.WriteLine("3.- Insertar");
+            Console.WriteLine("4.- Modificar");
+            Console.WriteLine("5.- Eliminar");
+            Console.WriteLine("6.- Salir");
         }
     }
 }
