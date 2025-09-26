@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BD", "BD\BD.csproj", "{1372
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkSystem", "EntityFrameworkSystem\EntityFrameworkSystem.csproj", "{22FAD16A-F45A-429D-BA38-40EF9E0202C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegados", "Delegados\Delegados.csproj", "{4D80305D-322C-4601-80D4-D0AF0A275785}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{22FAD16A-F45A-429D-BA38-40EF9E0202C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22FAD16A-F45A-429D-BA38-40EF9E0202C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22FAD16A-F45A-429D-BA38-40EF9E0202C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D80305D-322C-4601-80D4-D0AF0A275785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D80305D-322C-4601-80D4-D0AF0A275785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D80305D-322C-4601-80D4-D0AF0A275785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D80305D-322C-4601-80D4-D0AF0A275785}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
