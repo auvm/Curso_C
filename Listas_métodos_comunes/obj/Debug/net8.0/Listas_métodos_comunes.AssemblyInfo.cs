@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Listas_métodos_comunes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cb92c56deb4a7442e2c4abf513c5c1808b8d72c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+838413f29bdd085866fd3b3058575bf6e93022a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Listas_métodos_comunes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Listas_métodos_comunes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
