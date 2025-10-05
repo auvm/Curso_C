@@ -1,0 +1,15 @@
+D:\auvm\PROYECTOS\Curso_C#\Multidifusión\bin\Debug\net8.0\Multidifusión.exe
+D:\auvm\PROYECTOS\Curso_C#\Multidifusión\bin\Debug\net8.0\Multidifusión.deps.json
+D:\auvm\PROYECTOS\Curso_C#\Multidifusión\bin\Debug\net8.0\Multidifusión.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\Multidifusión\bin\Debug\net8.0\Multidifusión.dll
+D:\auvm\PROYECTOS\Curso_C#\Multidifusión\bin\Debug\net8.0\Multidifusión.pdb
+D:\auvm\PROYECTOS\Curso_C#\Multidifusión\obj\Debug\net8.0\Multidifusión.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\Multidifusión\obj\Debug\net8.0\Multidifusión.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Multidifusión\obj\Debug\net8.0\Multidifusión.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\Multidifusión\obj\Debug\net8.0\Multidifusión.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\Multidifusión\obj\Debug\net8.0\Multidifusión.sourcelink.json
+D:\auvm\PROYECTOS\Curso_C#\Multidifusión\obj\Debug\net8.0\Multidifusión.dll
+D:\auvm\PROYECTOS\Curso_C#\Multidifusión\obj\Debug\net8.0\refint\Multidifusión.dll
+D:\auvm\PROYECTOS\Curso_C#\Multidifusión\obj\Debug\net8.0\Multidifusión.pdb
+D:\auvm\PROYECTOS\Curso_C#\Multidifusión\obj\Debug\net8.0\Multidifusión.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\Multidifusión\obj\Debug\net8.0\ref\Multidifusión.dll

@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "D:\\auvm\\PROYECTOS\\Curso_C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA75887A-90D5-4949-BDB2-0CC83CACCCBE}|Curso_C#\\Curso_C#.csproj|d:\\auvm\\proyectos\\curso_c#\\curso_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA75887A-90D5-4949-BDB2-0CC83CACCCBE}|Curso_C#\\Curso_C#.csproj|solutionrelative:curso_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFC744D7-BF4C-4E29-A686-A5BCEACCC211}|Multidifusi\u00F3n\\Multidifusi\u00F3n.csproj|d:\\auvm\\proyectos\\curso_c#\\multidifusi\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC744D7-BF4C-4E29-A686-A5BCEACCC211}|Multidifusi\u00F3n\\Multidifusi\u00F3n.csproj|solutionrelative:multidifusi\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA4ED02E-2150-46F8-ADC2-6FE15EBC184D}|Conexi\u00F3nBaseDeDatos\\Conexi\u00F3nBaseDeDatos.csproj|d:\\auvm\\proyectos\\curso_c#\\conexi\u00F3nbasededatos\\conexi\u00F3nbasededatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CA4ED02E-2150-46F8-ADC2-6FE15EBC184D}|Conexi\u00F3nBaseDeDatos\\Conexi\u00F3nBaseDeDatos.csproj|solutionrelative:conexi\u00F3nbasededatos\\conexi\u00F3nbasededatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7ABA085B-7AAB-43CA-B1BA-9817D10F07FB}|FuncionesDeOrdenSuperior\\FuncionesDeOrdenSuperior.csproj|d:\\auvm\\proyectos\\curso_c#\\funcionesdeordensuperior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABA085B-7AAB-43CA-B1BA-9817D10F07FB}|FuncionesDeOrdenSuperior\\FuncionesDeOrdenSuperior.csproj|solutionrelative:funcionesdeordensuperior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22FAD16A-F45A-429D-BA38-40EF9E0202C1}|EntityFrameworkSystem\\EntityFrameworkSystem.csproj|d:\\auvm\\proyectos\\curso_c#\\entityframeworksystem\\entityframeworksystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{22FAD16A-F45A-429D-BA38-40EF9E0202C1}|EntityFrameworkSystem\\EntityFrameworkSystem.csproj|solutionrelative:entityframeworksystem\\entityframeworksystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52262A4C-E95C-42AE-AAFF-F896BCF9C8CE}|ClasesYObjetos\\ClasesYObjetos.csproj|d:\\auvm\\proyectos\\curso_c#\\clasesyobjetos\\clasesyobjetos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{52262A4C-E95C-42AE-AAFF-F896BCF9C8CE}|ClasesYObjetos\\ClasesYObjetos.csproj|solutionrelative:clasesyobjetos\\clasesyobjetos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA7F878B-A344-4E0E-884C-08BF1267C85A}|Conexi\u00F3nBaseDeDatosMenu\\Conexi\u00F3nBaseDeDatosMenu.csproj|d:\\auvm\\proyectos\\curso_c#\\conexi\u00F3nbasededatosmenu\\conexi\u00F3nbasededatosmenu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BA7F878B-A344-4E0E-884C-08BF1267C85A}|Conexi\u00F3nBaseDeDatosMenu\\Conexi\u00F3nBaseDeDatosMenu.csproj|solutionrelative:conexi\u00F3nbasededatosmenu\\conexi\u00F3nbasededatosmenu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A1B3476-E6E4-473D-B95A-1076F0A479A4}|Conexi\u00F3nBaseDeDatosAbstracta\\Conexi\u00F3nBaseDeDatosAbstracta.csproj|d:\\auvm\\proyectos\\curso_c#\\conexi\u00F3nbasededatosabstracta\\conexi\u00F3nbasededatosabstracta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7A1B3476-E6E4-473D-B95A-1076F0A479A4}|Conexi\u00F3nBaseDeDatosAbstracta\\Conexi\u00F3nBaseDeDatosAbstracta.csproj|solutionrelative:conexi\u00F3nbasededatosabstracta\\conexi\u00F3nbasededatosabstracta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22FAD16A-F45A-429D-BA38-40EF9E0202C1}|EntityFrameworkSystem\\EntityFrameworkSystem.csproj|d:\\auvm\\proyectos\\curso_c#\\entityframeworksystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22FAD16A-F45A-429D-BA38-40EF9E0202C1}|EntityFrameworkSystem\\EntityFrameworkSystem.csproj|solutionrelative:entityframeworksystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C4A0E00-E5D9-4FCC-95A5-53679BA951DE}|Delegados\\Delegados.csproj|d:\\auvm\\proyectos\\curso_c#\\delegados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4A0E00-E5D9-4FCC-95A5-53679BA951DE}|Delegados\\Delegados.csproj|solutionrelative:delegados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\Curso_C#\\Program.cs",
-              "RelativeDocumentMoniker": "Curso_C#\\Program.cs",
-              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\Curso_C#\\Program.cs",
-              "RelativeToolTip": "Curso_C#\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T04:57:29.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Conexi\u00F3nBaseDeDatosMenu.csproj",
-              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\Conexi\u00F3nBaseDeDatosMenu\\Conexi\u00F3nBaseDeDatosMenu.csproj",
-              "RelativeDocumentMoniker": "Conexi\u00F3nBaseDeDatosMenu\\Conexi\u00F3nBaseDeDatosMenu.csproj",
-              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\Conexi\u00F3nBaseDeDatosMenu\\Conexi\u00F3nBaseDeDatosMenu.csproj",
-              "RelativeToolTip": "Conexi\u00F3nBaseDeDatosMenu\\Conexi\u00F3nBaseDeDatosMenu.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-24T20:22:46.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Conexi\u00F3nBaseDeDatosAbstracta.csproj",
-              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\Conexi\u00F3nBaseDeDatosAbstracta\\Conexi\u00F3nBaseDeDatosAbstracta.csproj",
-              "RelativeDocumentMoniker": "Conexi\u00F3nBaseDeDatosAbstracta\\Conexi\u00F3nBaseDeDatosAbstracta.csproj",
-              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\Conexi\u00F3nBaseDeDatosAbstracta\\Conexi\u00F3nBaseDeDatosAbstracta.csproj",
-              "RelativeToolTip": "Conexi\u00F3nBaseDeDatosAbstracta\\Conexi\u00F3nBaseDeDatosAbstracta.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-24T20:22:45.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Conexi\u00F3nBaseDeDatos.csproj",
-              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\Conexi\u00F3nBaseDeDatos\\Conexi\u00F3nBaseDeDatos.csproj",
-              "RelativeDocumentMoniker": "Conexi\u00F3nBaseDeDatos\\Conexi\u00F3nBaseDeDatos.csproj",
-              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\Conexi\u00F3nBaseDeDatos\\Conexi\u00F3nBaseDeDatos.csproj",
-              "RelativeToolTip": "Conexi\u00F3nBaseDeDatos\\Conexi\u00F3nBaseDeDatos.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-24T20:22:42.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClasesYObjetos.csproj",
-              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\ClasesYObjetos\\ClasesYObjetos.csproj",
-              "RelativeDocumentMoniker": "ClasesYObjetos\\ClasesYObjetos.csproj",
-              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\ClasesYObjetos\\ClasesYObjetos.csproj",
-              "RelativeToolTip": "ClasesYObjetos\\ClasesYObjetos.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-24T20:22:33.131Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\FuncionesDeOrdenSuperior\\Program.cs",
+              "RelativeDocumentMoniker": "FuncionesDeOrdenSuperior\\Program.cs",
+              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\FuncionesDeOrdenSuperior\\Program.cs",
+              "RelativeToolTip": "FuncionesDeOrdenSuperior\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T07:35:37.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EntityFrameworkSystem.csproj",
-              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\EntityFrameworkSystem\\EntityFrameworkSystem.csproj",
-              "RelativeDocumentMoniker": "EntityFrameworkSystem\\EntityFrameworkSystem.csproj",
-              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\EntityFrameworkSystem\\EntityFrameworkSystem.csproj",
-              "RelativeToolTip": "EntityFrameworkSystem\\EntityFrameworkSystem.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-24T20:22:18.546Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\Delegados\\Program.cs",
+              "RelativeDocumentMoniker": "Delegados\\Program.cs",
+              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\Delegados\\Program.cs",
+              "RelativeToolTip": "Delegados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T07:09:14.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\EntityFrameworkSystem\\Program.cs",
-              "RelativeDocumentMoniker": "EntityFrameworkSystem\\Program.cs",
-              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\EntityFrameworkSystem\\Program.cs",
-              "RelativeToolTip": "EntityFrameworkSystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\Multidifusi\u00F3n\\Program.cs",
+              "RelativeDocumentMoniker": "Multidifusi\u00F3n\\Program.cs",
+              "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\Multidifusi\u00F3n\\Program.cs",
+              "RelativeToolTip": "Multidifusi\u00F3n\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T05:58:42.627Z"
+              "WhenOpened": "2025-10-05T07:03:41.008Z",
+              "EditorCaption": ""
             }
           ]
         }

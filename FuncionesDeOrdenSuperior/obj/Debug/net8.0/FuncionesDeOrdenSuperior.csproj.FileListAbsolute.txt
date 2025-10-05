@@ -1,0 +1,15 @@
+D:\auvm\PROYECTOS\Curso_C#\FuncionesDeOrdenSuperior\obj\Debug\net8.0\FuncionesDeOrdenSuperior.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\Curso_C#\FuncionesDeOrdenSuperior\obj\Debug\net8.0\FuncionesDeOrdenSuperior.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\FuncionesDeOrdenSuperior\obj\Debug\net8.0\FuncionesDeOrdenSuperior.AssemblyInfo.cs
+D:\auvm\PROYECTOS\Curso_C#\FuncionesDeOrdenSuperior\obj\Debug\net8.0\FuncionesDeOrdenSuperior.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\Curso_C#\FuncionesDeOrdenSuperior\obj\Debug\net8.0\FuncionesDeOrdenSuperior.sourcelink.json
+D:\auvm\PROYECTOS\Curso_C#\FuncionesDeOrdenSuperior\bin\Debug\net8.0\FuncionesDeOrdenSuperior.exe
+D:\auvm\PROYECTOS\Curso_C#\FuncionesDeOrdenSuperior\bin\Debug\net8.0\FuncionesDeOrdenSuperior.deps.json
+D:\auvm\PROYECTOS\Curso_C#\FuncionesDeOrdenSuperior\bin\Debug\net8.0\FuncionesDeOrdenSuperior.runtimeconfig.json
+D:\auvm\PROYECTOS\Curso_C#\FuncionesDeOrdenSuperior\bin\Debug\net8.0\FuncionesDeOrdenSuperior.dll
+D:\auvm\PROYECTOS\Curso_C#\FuncionesDeOrdenSuperior\bin\Debug\net8.0\FuncionesDeOrdenSuperior.pdb
+D:\auvm\PROYECTOS\Curso_C#\FuncionesDeOrdenSuperior\obj\Debug\net8.0\FuncionesDeOrdenSuperior.dll
+D:\auvm\PROYECTOS\Curso_C#\FuncionesDeOrdenSuperior\obj\Debug\net8.0\refint\FuncionesDeOrdenSuperior.dll
+D:\auvm\PROYECTOS\Curso_C#\FuncionesDeOrdenSuperior\obj\Debug\net8.0\FuncionesDeOrdenSuperior.pdb
+D:\auvm\PROYECTOS\Curso_C#\FuncionesDeOrdenSuperior\obj\Debug\net8.0\FuncionesDeOrdenSuperior.genruntimeconfig.cache
+D:\auvm\PROYECTOS\Curso_C#\FuncionesDeOrdenSuperior\obj\Debug\net8.0\ref\FuncionesDeOrdenSuperior.dll
