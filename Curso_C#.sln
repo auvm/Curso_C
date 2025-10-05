@@ -53,11 +53,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BD", "BD\BD.csproj", "{1372
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkSystem", "EntityFrameworkSystem\EntityFrameworkSystem.csproj", "{22FAD16A-F45A-429D-BA38-40EF9E0202C1}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multidifusión", "Multidifusión\Multidifusión.csproj", "{FFC744D7-BF4C-4E29-A686-A5BCEACCC211}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegados", "Delegados\Delegados.csproj", "{1C4A0E00-E5D9-4FCC-95A5-53679BA951DE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncionesDeOrdenSuperior", "FuncionesDeOrdenSuperior\FuncionesDeOrdenSuperior.csproj", "{7ABA085B-7AAB-43CA-B1BA-9817D10F07FB}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegados", "Delegados\Delegados.csproj", "{4D80305D-322C-4601-80D4-D0AF0A275785}"
+>>>>>>> 15849fe9abbf934626fd8e680cf9d73857b6e38e
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +169,7 @@ Global
 		{22FAD16A-F45A-429D-BA38-40EF9E0202C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22FAD16A-F45A-429D-BA38-40EF9E0202C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22FAD16A-F45A-429D-BA38-40EF9E0202C1}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{FFC744D7-BF4C-4E29-A686-A5BCEACCC211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FFC744D7-BF4C-4E29-A686-A5BCEACCC211}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFC744D7-BF4C-4E29-A686-A5BCEACCC211}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -177,6 +182,12 @@ Global
 		{7ABA085B-7AAB-43CA-B1BA-9817D10F07FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7ABA085B-7AAB-43CA-B1BA-9817D10F07FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7ABA085B-7AAB-43CA-B1BA-9817D10F07FB}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{4D80305D-322C-4601-80D4-D0AF0A275785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D80305D-322C-4601-80D4-D0AF0A275785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D80305D-322C-4601-80D4-D0AF0A275785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D80305D-322C-4601-80D4-D0AF0A275785}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 15849fe9abbf934626fd8e680cf9d73857b6e38e
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\auvm\\PROYECTOS\\Curso_C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFC744D7-BF4C-4E29-A686-A5BCEACCC211}|Multidifusi\u00F3n\\Multidifusi\u00F3n.csproj|d:\\auvm\\proyectos\\curso_c#\\multidifusi\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFC744D7-BF4C-4E29-A686-A5BCEACCC211}|Multidifusi\u00F3n\\Multidifusi\u00F3n.csproj|solutionrelative:multidifusi\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\auvm\\PROYECTOS\\Curso_C#\\Delegados\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Delegados\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7ABA085B-7AAB-43CA-B1BA-9817D10F07FB}|FuncionesDeOrdenSuperior\\FuncionesDeOrdenSuperior.csproj|d:\\auvm\\proyectos\\curso_c#\\funcionesdeordensuperior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ABA085B-7AAB-43CA-B1BA-9817D10F07FB}|FuncionesDeOrdenSuperior\\FuncionesDeOrdenSuperior.csproj|solutionrelative:funcionesdeordensuperior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C4A0E00-E5D9-4FCC-95A5-53679BA951DE}|Delegados\\Delegados.csproj|d:\\auvm\\proyectos\\curso_c#\\delegados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C4A0E00-E5D9-4FCC-95A5-53679BA951DE}|Delegados\\Delegados.csproj|solutionrelative:delegados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFC744D7-BF4C-4E29-A686-A5BCEACCC211}|Multidifusi\u00F3n\\Multidifusi\u00F3n.csproj|d:\\auvm\\proyectos\\curso_c#\\multidifusi\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC744D7-BF4C-4E29-A686-A5BCEACCC211}|Multidifusi\u00F3n\\Multidifusi\u00F3n.csproj|solutionrelative:multidifusi\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -32,36 +32,34 @@
               "RelativeDocumentMoniker": "FuncionesDeOrdenSuperior\\Program.cs",
               "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\FuncionesDeOrdenSuperior\\Program.cs",
               "RelativeToolTip": "FuncionesDeOrdenSuperior\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T07:35:37.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T07:35:37.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\Delegados\\Program.cs",
               "RelativeDocumentMoniker": "Delegados\\Program.cs",
               "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\Delegados\\Program.cs",
               "RelativeToolTip": "Delegados\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T07:09:14.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\auvm\\PROYECTOS\\Curso_C#\\Multidifusi\u00F3n\\Program.cs",
               "RelativeDocumentMoniker": "Multidifusi\u00F3n\\Program.cs",
               "ToolTip": "D:\\auvm\\PROYECTOS\\Curso_C#\\Multidifusi\u00F3n\\Program.cs",
               "RelativeToolTip": "Multidifusi\u00F3n\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T07:03:41.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T07:03:41.008Z"
             }
           ]
         }

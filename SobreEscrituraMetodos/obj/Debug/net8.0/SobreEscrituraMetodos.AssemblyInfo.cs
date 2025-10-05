@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SobreEscrituraMetodos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bdf190fbe7fcff7e3f89dc4944c62c8a4a68695")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cb92c56deb4a7442e2c4abf513c5c1808b8d72c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SobreEscrituraMetodos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SobreEscrituraMetodos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
