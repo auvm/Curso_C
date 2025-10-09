@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpresionesLambda", "Expres
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegadosGenericosFunc", "DelegadosGenericosFunc\DelegadosGenericosFunc.csproj", "{429721C9-EE81-483F-B74A-31108BEA9665}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegadosGenericosPredicate", "DelegadosGenericosPredicate\DelegadosGenericosPredicate.csproj", "{E07EAF26-E2FE-46A4-96EB-197FC61C7198}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{429721C9-EE81-483F-B74A-31108BEA9665}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{429721C9-EE81-483F-B74A-31108BEA9665}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{429721C9-EE81-483F-B74A-31108BEA9665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E07EAF26-E2FE-46A4-96EB-197FC61C7198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07EAF26-E2FE-46A4-96EB-197FC61C7198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07EAF26-E2FE-46A4-96EB-197FC61C7198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07EAF26-E2FE-46A4-96EB-197FC61C7198}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
