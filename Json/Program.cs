@@ -41,12 +41,12 @@ namespace Json
             /*El método para recuperar el objeto usa genéricos, hay que indicar el 
              tipo de objeto y pasarle la cadena a deserializar*/
 
-            //para el ejemplo...
+            //para el ejemplo, reasigno myBeer...
             myBeer.Name = "Marco";
             myBeer.Brand = "Polo";
             Console.WriteLine(myBeer);
 
-            //deserializo y re-asigno de nuevo a mi objeto
+            //deserializo y recupero de nuevo a mi objeto
             myBeer = JsonSerializer.Deserialize<Beer>(json0);
             Console.WriteLine(myBeer);
 
